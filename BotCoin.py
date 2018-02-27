@@ -18,9 +18,11 @@ updateResponse = requests.get(cmn.url + 'getUpdates')
 # For sending messages to an specific chat
 def sendMsg(msg, chat):
     
+    # Parse to http
+    msg = urllib.parse.quote_plus(msg)
     sendMsg = '{}sendMessage?chat_id={}&text={}'.format(cmn.url, str(chat), msg)
     
-    print(sendMsg)
+#    print(sendMsg)
     content = requests.post(sendMsg)
     
     if content.status_code != 200:
@@ -28,14 +30,16 @@ def sendMsg(msg, chat):
     else:
         print('Message sent')
 
+# Easy function to transform json to python readable dictionaries
 def jsonToDict(response):
     
     parsed = json.loads(response.content)
     
     return parsed
 
+# Get the last update starting at the offset
 def getLastUpdate(offset = None):
-    
+        
     request = cmn.url + 'getUpdates'
     
     if offset:
@@ -43,10 +47,17 @@ def getLastUpdate(offset = None):
         
     update = requests.get(request)
     update = jsonToDict(update)
-    lastUpdate = update['result'][0]['update_id']
     
+    if  update['result']:
+        
+        lastUpdate = update['result'][0]['update_id']
+    else:
+        lastUpdate = False
+        return lastUpdate 
+
     return lastUpdate
 
+# Fast API request to get crypto prices and FX
 def getLastCryptoPrice(crypto, fxCurrencies = cmn.mainCurrencies):
     
     s = ','
@@ -54,16 +65,18 @@ def getLastCryptoPrice(crypto, fxCurrencies = cmn.mainCurrencies):
     lastPrice = requests.get(cmn.crypto_url + 'price?fsym={}&tsyms={}'.format(crypto, currencies))
     lastPrice = jsonToDict(lastPrice)
     
+    #For readable information when executing it
+    priceString = ''
     for key, value in lastPrice.items():
             
-        print(crypto + '/' + key + ' = ' + str(value))
+        priceString = (priceString + crypto + '/' + key + ' = ' + str(value) + '\n')
     
-    return lastPrice
+    return priceString
 
+# Get the last handled update, useful when bot has been down
 def getUpdateNumber():
     
-    
-    if os.path.exists('C:/Py_projects/files/updateNumber.txt') == False:
+    if os.path.exists(cmn.filePath + 'updateNumber.txt') == False:
         
         updateFile = open('C:/Py_projects/files/updateNumber.txt', 'w')
         updateFile.write('0')
@@ -72,23 +85,76 @@ def getUpdateNumber():
         
     else:
         
-        updateFile = open('C:/Py_projects/files/updateNumber.txt', 'r')
+        updateFile = open(cmn.filePath + 'updateNumber.txt', 'r')
         updateNumber = int(updateFile.readline())
         updateFile.close()
         
     return updateNumber
 
+# Set last handled update
 def setUpdateNumber(number):
     
-    updateFile = open('C:/Py_projects/files/updateNumber.txt', 'w')
+    updateFile = open(cmn.filePath + 'updateNumber.txt', 'w')
     updateFile.flush()
     number = str(number)
     updateFile.write(number)
     updateFile.close()
 
+# WIP function, to send keyboard with cryptocurrencies list
 def sendCryptoKeyboard(chat, keyboard):
     
-    
-    sendMsg = '{}sendMessage?chat_id={}&reply_markup={}'.format(cmn.url, str(chat), keyboard)
+    sendMsg = '{}sendMessage?chat_id={}&reply_markup={}'.format(cmn.url, str(chat), json.dumps(keyboard))
     print(sendMsg)
     requests.post(sendMsg)
+
+# Get all cryptocurrencies available at CryptoCompare
+def getCryptoList():
+    
+    response = requests.get('https://www.cryptocompare.com/api/data/coinlist/')
+    response = jsonToDict(response)
+    
+    cryptoKeys = response['Data'].keys()
+    
+    cryptoList = open(cmn.filePath + 'cryptoList.txt', 'w+')
+    
+    for key in cryptoKeys:
+        try:
+            info = str(key)
+            info = info + ' ' + str(response['Data'][key]['CoinName'] + '\n')  
+            cryptoList.write(info)
+        except:
+            print('Encoding error at {}'.format(key))
+    
+    cryptoList.close()
+    
+# Check if the ccy is available now    
+def isCryptoAvailable(crypto):
+    
+    cryptoList = open(cmn.filePath + 'cryptoList.txt')
+    
+    for line in cryptoList:
+        
+        data = line.strip().split()
+        
+        if data[0] == crypto:
+            return True
+    
+    return False
+
+# Handle updates to retrieve cryptoccy prices
+def handleUpdate(update):
+    
+    chat = update['from']['id']
+    
+    if 'text' in update:
+        
+        text = update['text']
+        isCrypto = isCryptoAvailable(text)
+        
+        if isCrypto:
+            
+            prices = getLastCryptoPrice(text)
+            sendMsg(prices, chat)
+    return
+        
+    

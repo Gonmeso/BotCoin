@@ -1,0 +1,2237 @@
+LTC Litecoin
+XMR Monero
+NXT Nxt
+ETC Ethereum Classic
+DOGE Dogecoin
+ZEC ZCash
+BTS Bitshares
+DGB DigiByte
+XRP Ripple
+BTCD BitcoinDark
+CRAIG CraigsCoin
+XPY PayCoin
+PRC ProsperCoin
+YBC YbCoin
+DANK DarkKush
+GIVE GiveCoin
+KOBO KoboCoin
+DT DarkToken
+CETI CETUS Coin
+SUP Supcoin
+XPD PetroDollar
+GEO GeoCoin
+CHASH CleverHash
+SPR Spreadcoin
+NXTI NXTI
+WOLF Insanity Coin
+XDP DogeParty
+2015 2015 coin
+42 42 Coin
+AC Asia Coin
+ALF AlphaCoin
+AGS Aegis
+AMC AmericanCoin
+ALN AlienCoin
+ARI AriCoin
+AUR Aurora Coin
+AXR AXRON
+BCX BattleCoin
+BEN Benjamins
+BITB BitBean
+BLU BlueCoin
+BLK BlackCoin
+BOST BoostCoin
+BQC BQCoin
+XMY MyriadCoin
+MOON MoonCoin
+ZET ZetaCoin
+ENRG EnergyCoin
+QRK QuarkCoin
+RIC Riecoin
+DGC DigiCoin
+CAIX CAIx
+BTG* BitGem
+BUK CryptoBuk
+CACH Cachecoin
+CANN CannabisCoin
+CAP BottleCaps
+CASH CashCoin
+CBX CryptoBullion
+CCN CannaCoin
+CINNI CINNICOIN
+CLAM CLAMS
+CLOAK CloakCoin
+CLR CopperLark
+CMC CosmosCoin
+CNC ChinaCoin
+CNL ConcealCoin
+COMM Community Coin
+COOL CoolCoin
+CRACK CrackCoin
+CRC* CraftCoin
+CRYPT CryptCoin
+DEM eMark
+EFL E-Gulden
+EMC2 Einsteinium
+EXE ExeCoin
+EZC EZCoin
+FC2 Fuel2Coin
+FFC FireflyCoin
+FIBRE FIBRE
+FRC FireRoosterCoin
+FLT FlutterCoin
+FRAC FractalCoin
+FTC FeatherCoin
+GDC GrandCoin
+GLC GlobalCoin
+GLD GoldCoin
+GLX GalaxyCoin
+GML GameLeagueCoin
+GUE GuerillaCoin
+HAL Halcyon
+HBN HoboNickels
+HVC HeavyCoin
+HYP Hyperstake
+ICB IceBergCoin
+IOC IOCoin
+IXC IXcoin
+JKC JunkCoin
+KDC Klondike Coin
+LAB* CoinWorksCoin
+LGD* Legendary Coin
+LK7 Lucky7Coin
+LSD LightSpeedCoin
+LTB Litebar 
+LTCX LitecoinX
+LYC LycanCoin
+MAX MaxCoin
+MEC MegaCoin
+MN Cryptsy Mining Contract
+MNC MinCoin
+MRY MurrayCoin
+MYST* MysteryCoin
+NAN NanoToken
+NAUT Nautilus Coin
+NAV NavCoin
+NBL Nybble
+NEC NeoCoin
+NMB Nimbus Coin
+NOBL NobleCoin
+NRS NoirShares
+NVC NovaCoin
+NMC NameCoin
+NYAN NyanCoin
+OPAL OpalCoin
+ORB Orbitcoin
+OSC OpenSourceCoin
+PHS PhilosophersStone
+POINTS Cryptsy Points
+POT PotCoin
+PSEUD PseudoCash
+PTS* Protoshares
+PXC PhoenixCoin
+PYC PayCoin
+RDD ReddCoin
+RIPO RipOffCoin
+RPC RonPaulCoin
+RT2 RotoCoin
+RYC RoyalCoin
+RZR RazorCoin
+SAT2 Saturn2Coin
+SFR SaffronCoin
+SHADE ShadeCoin
+SLG SterlingCoin
+SMC SmartCoin
+SOLE SoleCoin
+SPT Spots
+SRC SecureCoin
+SSV SSVCoin
+XLM Stellar
+SUPER SuperCoin
+SWIFT BitSwift
+SYNC SyncCoin
+SYS SysCoin
+TAG TagCoin
+TAK TakCoin
+TES TeslaCoin
+TGC TigerCoin
+UNB UnbreakableCoin
+UNO Unobtanium
+URO UroCoin
+UTC UltraCoin
+UTIL Utility Coin
+VDO VidioCoin
+VIA ViaCoin
+VTC VertCoin
+WC WhiteCoin
+WDC WorldCoin
+XC X11 Coin
+XCR Crypti
+XJO JouleCoin
+XLB LibertyCoin
+XPM PrimeCoin
+XST StealthCoin
+YAC YAcCoin
+ZCC ZCC Coin
+ZED ZedCoins
+ZRC* ZiftrCoin
+BCN ByteCoin
+EKN Elektron
+XAU XauCoin
+TMC TimesCoin
+XEM NEM
+SJCX StorjCoin
+HUGE BigCoin
+MAID MaidSafe Coin
+007 007 coin
+NSR NuShares
+MONA MonaCoin
+CELL SolarFarm
+TEK TekCoin
+BAY BitBay
+XVC Vcash
+CRAVE CraveCoin
+XSI Stability Shares
+GHS Giga Hash
+BYC ByteCent
+GRC GridCoin
+GEMZ Gemz Social
+HZ Horizon
+FAIR FairCoin
+QORA QoraCoin
+RBY RubyCoin
+PTC PesetaCoin
+SSD Sonic Screw Driver Coin
+XTC TileCoin
+NOTE Dnotes
+FLO FlorinCoin
+8BIT 8BIT Coin
+STV Sativa Coin
+EBS EbolaShare
+XMG Coin Magi
+AMBER AmberCoin
+JPC JackPotCoin
+NKT NakomotoDark
+J JoinCoin
+GHC GhostCoin
+DTC* DayTrader Coin
+ABY ArtByte
+LDOGE LiteDoge
+SWARM SwarmCoin
+BBR Boolberry
+BTCRY BitCrystal
+XPB Pebble Coin
+XDQ Dirac Coin
+FLDC Folding Coin
+SLR SolarCoin
+SMAC Social Media Coin
+TRK TruckCoin
+U Ucoin
+UIS Unitus
+CYP CypherPunkCoin
+UFO UFO Coin
+OC OrangeCoin
+GSM GSM Coin
+FSC2 FriendshipCoin
+NXTTY NXTTY
+QBK QuBuck Coin
+BLC BlakeCoin
+GIG GigCoin
+CC CyberCoin
+BITS BitstarCoin
+LTBC LTBCoin
+VTR Vtorrent
+METAL MetalCoin
+PINK PinkCoin
+GRE GreenCoin
+XG XG Sports
+CHILD ChildCoin
+BOOM BOOM Coin
+MINE Instamine Nuggets
+ROS ROS Coin
+SLM SlimCoin
+GAIA GAIA Platform
+TRUST TrustPlus
+FCN FantomCoin 
+XCN Cryptonite
+CURE Curecoin
+MMC MemoryCoin
+OCTO OctoCoin
+MSC MasterCoin
+EGG EggCoin
+C2 Coin.2
+CAM Camcoin
+RBR Ribbit Rewards
+XQN Quotient
+ICASH ICASH
+NODE Node
+SOON SoonCoin
+BTMI BitMiles
+EVENT Event Token
+1CR 1Credit
+XCO XCoin
+VMC VirtualMining Coin
+MRS MarsCoin
+EQM Equilibrium Coin
+ISL IslaCoin
+XWT World Trade Funds
+XNA DeOxyRibose
+RDN RadonPay
+SKB SkullBuzz
+BSTY GlobalBoost
+FCS CryptoFocus
+GAM Gambit coin
+NXS Nexus
+CESC Crypto Escudo
+TWLV Twelve Coin
+EAGS EagsCoin
+MWC MultiWallet Coin
+ADC AudioCoin
+XMS Megastake
+SPHR Sphere Coin
+BTX* BitcoinTX
+DCC DarkCrave
+M1 SupplyShock
+DB DarkBit
+CTO Crypto
+EDGE EdgeCoin
+LUX* BitLux
+FUTC FutCoin
+TAM TamaGucci
+MRP MorpheusCoin
+CREVA Creva Coin
+XFC Forever Coin
+NANAS BananaBits
+LOG Wood Coin
+XCE Cerium
+ACP Anarchists Prime
+DRZ Droidz
+BUCKS* GorillaBucks
+BSC BowsCoin
+DRKT DarkTron
+NKA IncaKoin
+VERSA Versa Token
+EPY Empyrean
+SQL Squall Coin
+POLY PolyBit
+PIGGY Piggy Coin
+CHA Charity Coin
+GEN Genstake
+QTZ Quartz
+ARB Arbit Coin
+LTS Litestar Coin
+SPC SpinCoin
+DUB DubCoin
+GRAV Graviton
+MCN MonetaVerde
+QCN Quazar Coin
+HEDG Hedgecoin
+SONG Song Coin
+XSEED BitSeeds
+CRE Credits
+AXIOM Axiom Coin
+SMLY SmileyCoin
+RBT Rimbit
+CHIP Chip
+SPEC SpecCoin
+GRAM Gram Coin
+UNC UnCoin
+SPRTS Sprouts
+ZNY BitZeny
+BTQ BitQuark
+PKB ParkByte
+STR* StarCoin
+SNRG Synergy
+GHOUL Ghoul Coin
+HNC Hellenic Coin
+DIGS Diggits
+EXP Expanse
+GCR Global Currency Reserve
+CON Paycon
+NEU* NeuCoin
+GRS Groestlcoin 
+CLV CleverCoin
+FCT Factoids
+LYB LyraBar
+PXI Prime-X1
+CPC CapriCoin
+OBITS Obits Coin
+CLUB  ClubCoin
+RADS Radium
+EMC Emercoin
+BLITZ BlitzCoin
+EGC EverGreenCoin
+MND MindCoin
+I0C I0coin
+BTA Bata
+DCR Decred
+NAS2 Nas2Coin
+PAK Pakcoin
+CRB Creditbit 
+REP Augur
+OK OKCash
+VOX Voxels
+AMP Synereo
+HODL HOdlcoin
+DGD Digix DAO
+EDRC EDRCoin
+LSK Lisk
+HTC Hitcoin
+GAME Gamecredits
+DSH Dashcoin
+DBIC DubaiCoin
+XHI HiCoin
+SPOTS Spots
+KNC* Khancoin
+CAB CabbageUnit
+DIEM CarpeDiemCoin
+RCX RedCrowCoin
+PWR PowerCoin
+TRUMP TrumpCoin
+PRM PrismChain
+BCY BitCrystals
+RBIES Rubies
+STEEM Steem
+XWC WhiteCoin
+DOT Dotcoin
+SCOT Scotcoin
+BAC BitalphaCoin
+XID* International Diamond Coin
+GRT Grantcoin
+TCR Thecreed
+POST PostCoin
+INFX Influxcoin
+ETHS EthereumScrypt
+NUM NumbersCoin
+SOUL SoulCoin
+GROW GrownCoin
+UNITY SuperNET
+NETC NetworkCoin
+GPU GPU Coin
+TAGR Think And Get Rich Coin
+HMP HempCoin
+ADZ Adzcoin
+GAP Gapcoin
+MYC MayaCoin
+IVZ InvisibleCoin
+SLS SaluS
+SOIL SoilCoin
+CUBE DigiCube
+YOC YoCoin
+APC AlpaCoin
+STEPS Steps
+DBTC DebitCoin
+UNIT Universal Currency
+AEON AeonCoin
+MOIN MoinCoin
+ERC EuropeCoin
+AIB AdvancedInternetBlock
+PRIME PrimeChain
+BERN BERNcash
+BIGUP BigUp
+KR Krypton
+XRE RevolverCoin
+1337 1337
+XDB DragonSphere
+MNM Mineum
+ADCN Asiadigicoin
+ZEIT ZeitCoin
+611 SixEleven
+2GIVE 2GiveCoin
+CGA Cryptographic Anomaly
+SWING SwingCoin
+SAFEX SafeExchangeCoin
+NEBU Nebuchadnezzar
+AEC AcesCoin
+FRN Francs
+ADN Aiden
+PULSE Pulse
+N7 Number7
+CYG Cygnus
+LGBTQ LGBTQoin
+UTH Uther
+MPRO MediumProject
+404 404Coin
+SPM Supreme
+MOJO Mojocoin
+BELA BelaCoin
+FLX Flash
+BOLI BolivarCoin
+CLUD CludCoin
+DIME DimeCoin
+FLY FlyCoin
+HVCO High Voltage Coin
+GREXIT GrexitCoin
+CARBON Carboncoin
+DEUR DigiEuro
+TUR Turron
+LEMON LemonCoin
+STS STRESScoin
+DISK Dark Lisk
+NEVA NevaCoin
+CYT Cryptokenz
+FUZZ Fuzzballs
+XNX XanaxCoin
+STAR* StarCoin
+STHR Stakerush
+BON BonesCoin
+WMC WMCoin
+GOTX GothicCoin
+FLVR FlavorCoin
+SHREK ShrekCoin
+STA* Stakers
+RISE Rise
+REV Revenu
+PBC PabyosiCoin
+OBS Obscurebay
+EXIT ExitCoin
+EDC EducoinV
+CKC Clockcoin
+VIP VIP Tokens
+NXE NXEcoin
+ZOOM ZoomCoin
+DRACO DT Token
+YOVI YobitVirtualCoin
+KUBO KubosCoin
+INCP InceptionCoin
+SAK SharkCoin
+EVIL EvilCoin
+OMA OmegaCoin
+COX CobraCoin
+BNT Bancor Network Token
+DES Destiny
+PDC Project Decorum
+CMT CometCoin
+CHESS ChessCoin
+SPACE SpaceCoin
+REE ReeCoin
+LQD Liquid
+MARV Marvelous
+XDE2 XDE II
+VEC2 VectorCoin 2.0 
+OMNI Omni
+GSY GenesysCoin
+TKN* TrollTokens
+LIR Let it Ride
+MMNXT MMNXT 
+SCRPT ScryptCoin
+LBC LBRY Credits
+SPX Specie
+SBD Steem Backed Dollars
+CJ CryptoJacks
+PUT PutinCoin
+KRAK Kraken
+DLISK Dlisk
+IBANK iBankCoin
+STRAT Stratis
+VOYA Voyacoin
+ENTER EnterCoin (ENTER)
+WGC World Gold Coin
+BM BitMoon
+PSY Psilocybin
+XT ExtremeCoin
+RUST RustCoin
+NZC NewZealandCoin
+SNGLS SingularDTV
+XAUR Xaurum
+BFX BitFinex Tokens
+UNIQ Uniqredit
+CRX ChronosCoin
+XPOKE PokeChain
+MUDRA MudraCoin
+WARP WarpCoin
+CNMT Coinomat
+PIZZA PizzaCoin
+LC Lutetium Coin
+HEAT Heat Ledger
+ICN Iconomi
+EXB ExaByte (EXB)
+WINGS Wings DAO
+CDX* Cryptodex
+RBIT ReturnBit
+DCS. deCLOUDs
+KMD Komodo
+GB GoldBlocks
+NEO NEO
+ANC Anoncoin
+SYNX Syndicate
+MC Mass Coin
+EDR E-Dinar Coin
+JWL Jewels
+TAB MollyCoin
+TRIG Trigger
+BITCNY bitCNY
+BITUSD bitUSD
+ATM* Autumncoin
+STO Save The Ocean
+SNS Sense
+FSN Fusion
+CTC CarterCoin
+TOT TotCoin
+BTD Bitcloud
+BOTS ArkDAO
+MDC MedicCoin
+FTP FuturePoints
+ZET2 Zeta2Coin
+COV* CovenCoin
+KRB Karbo
+TELL Tellurion
+ENE EneCoin
+TDFB TDFB
+BLOCKPAY BlockPay
+BXT BitTokens
+MST MustangCoin
+GOON Goonies
+808 808
+VLT Veltor
+ZNE ZoneCoin
+COVAL Circuits of Value
+DGDC DarkGold
+TODAY TodayCoin
+ROOT RootCoin
+1ST FirstBlood
+GPL Gold Pressed Latinum
+DOPE DopeCoin
+B3 B3 Coin
+FX FCoin
+PIO Pioneershares
+GAY GayCoin
+SMSR Samsara Coin
+UBIQ Ubiqoin
+ARM Armory Coin
+RING RingCoin
+ERB ERBCoin
+LAZ Lazarus
+FONZ FonzieCoin
+BTCR BitCurrency
+DROP FaucetCoin
+SANDG Save and Gain
+PNK SteamPunk
+MOOND Dark Moon
+DLC DollarCoin
+SEN Sentaro
+SCN Swiscoin
+WEX Wexcoin
+LTH Lathaan
+BRONZ BitBronze
+SH Shilling
+MG Mind Gene
+PSI PSIcoin
+NLC NoLimitCoin
+PSB PesoBit
+XBTS Beats
+FIT Fitcoin
+PINKX PantherCoin
+UNF Unfed Coin
+SPORT SportsCoin
+PPY Peerplays
+NTC NineElevenTruthCoin
+EGO EGOcoin
+BTCL* BitluckCoin
+RCN* RCoin
+X2 X2Coin
+MT Mycelium Token
+TIA Tianhe
+XUP UPcoin
+HALLO Halloween Coin
+BBCC BaseballCardCoin
+EMIGR EmiratesGoldCoin
+BHC BighanCoin
+CRAFT Craftcoin
+INV Invictus
+OLYMP OlympCoin
+DPAY DelightPay
+ATOM Atomic Coin
+HKG Hacker Gold
+ANTC AntiLitecoin
+JOBS JobsCoin
+DGORE DogeGoreCoin
+TRA Tetra
+RMS Resumeo Shares
+FJC FujiCoin
+VAPOR Vaporcoin
+SDP SydPakCoin
+RRT Recovery Right Tokens
+PRE Premium
+CALC CaliphCoin
+LEA LeaCoin
+CF Californium
+CRNK CrankCoin
+CFC CoffeeCoin
+VTY Victoriouscoin
+SFE Safecoin
+ARDR Ardor
+BS BlackShadowCoin
+JIF JiffyCoin
+CRAB CrabCoin
+AIR* Aircoin
+HILL President Clinton
+FOREX ForexCoin
+MONETA Moneta
+EC Eclipse
+RUBIT Rublebit
+HCC HappyCreatorCoin 
+BRAIN BrainCoin
+VTX Vertex
+KRC KRCoin
+ROYAL RoyalCoin
+LFC BigLifeCoin
+ZUR Zurcoin
+NUBIS NubisCoin
+TENNET Tennet
+PEC PeaceCoin
+GMX Goldmaxcoin
+32BIT 32Bitcoin
+GNJ GanjaCoin V2
+TEAM TeamUP
+SCT ScryptToken
+LANA LanaCoin
+ELE Elementrem
+GCC GuccioneCoin
+AND AndromedaCoin
+GBYTE Byteball
+EQUAL EqualCoin
+SWEET SweetStake
+2BACCO 2BACCO Coin
+DKC DarkKnightCoin
+COC Community Coin
+CHOOF ChoofCoin
+ZCL ZClassic
+RYCN RoyalCoin 2.0
+PCS Pabyosi Coin
+NBIT NetBit
+WINE WineCoin
+ARK ARK
+IFLT InflationCoin
+ZECD ZCashDarkCoin
+ZXT Zcrypt
+WASH WashingtonCoin
+TESLA TeslaCoilCoin
+LUCKY LuckyBlocks (LUCKY)
+VSL vSlice
+TPG Troll Payment
+LEO LEOcoin
+MDT Midnight
+CBD CBD Crystals
+PEX PosEx
+INSANE InsaneCoin
+GNT Golem Network Token
+PEN PenCoin
+BASH LuckChain
+FAME FameCoin
+LIV LiviaCoin
+SP Sex Pistols
+MEGA MegaFlash
+VRS Veros
+ALC Arab League Coin
+DOGETH EtherDoge
+KLC KiloCoin
+HUSH Hush
+BTLC BitLuckCoin
+DRM8 Dream8Coin
+FIST FistBump
+EBZ Ebitz
+365 365Coin
+DRS Digital Rupees
+FGZ Free Game Zone
+BOSON BosonCoin
+ATX ArtexCoin
+PNC PlatiniumCoin
+BRDD BeardDollars
+TIME Time
+BIP BipCoin
+XNC XenCoin
+EMB EmberCoin
+BTTF Coin to the Future
+DLR DollarOnline
+CSMIC Cosmic
+FIRST FirstCoin
+SCASH SpaceCash
+XEN XenixCoin
+JIO JIO Token
+IW iWallet
+JNS Janus
+TRICK TrickyCoin
+DCRE DeltaCredits
+FRE FreeCoin
+NPC NPCcoin
+PLNC PLNCoin
+DGMS Digigems
+ICOB Icobid
+ARCO AquariusCoin
+KURT Kurrent
+XCRE Creatio
+UR UR
+MTLM3 Metal Music v3
+ODNT Old Dogs New Tricks
+EUC Eurocoin
+CCX CoolDarkCoin
+BCF BitcoinFast
+SEEDS SeedShares
+POSW PoSWallet
+SHORTY ShortyCoin
+PCM Procom
+KC Kernalcoin
+CORAL CoralPay
+BamitCoin BAM
+NXC Nexium
+MONEY MoneyCoin
+BSTAR Blackstar
+HSP Horse Power
+HZT HazMatCoin
+CS CryptoSpots
+XSP PoolStamp
+CCRB CryptoCarbon
+BULLS BullshitCoin
+INCNT Incent
+ICON Iconic
+NIC NewInvestCoin
+ACN AvonCoin
+XNG Enigma
+XCI Cannabis Industry Coin
+LOOK LookCoin
+LOC Loco
+MMXVI MMXVI
+TRST TrustCoin
+MIS MIScoin
+WOP WorldPay
+CQST ConquestCoin
+IMPS Impulse Coin
+IN InCoin
+CHIEF TheChiefCoin
+GOAT Goat
+ANAL AnalCoin
+RC Russiacoin
+PND PandaCoin
+PX PXcoin
+CND* Canada eCoin
+OPTION OptionCoin
+AV Avatar Coin
+LTD Limited Coin
+UNITS GameUnits
+HEEL HeelCoin
+GAKH GAKHcoin
+SHIFT Shift
+S8C S88 Coin
+LVG Leverage Coin
+DRA DraculaCoin
+ASAFE2 Allsafe
+LTCR LiteCreed
+QBC Quebecoin
+XPRO ProCoin
+AST* Astral
+GIFT GiftNet
+VIDZ PureVidz
+INC Incrementum
+PTA PentaCoin
+ACID AcidCoin
+ZLQ ZLiteQubit
+RADI RadicalCoin
+RNC ReturnCoin
+GOLOS Golos
+PASC Pascal Coin
+TWIST TwisterCoin
+PAYP PayPeer
+DETH DarkEther
+YAY YAYcoin
+YES YesCoin
+LENIN LeninCoin
+MRSA MrsaCoin
+OS76 OsmiumCoin
+BOSS BitBoss
+MKR Maker
+BIC Bikercoins
+CRPS CryptoPennies
+MOTO Motocoin
+XNC* Numismatic Collections
+HXX HexxCoin
+SPKTR Ghost Coin
+MAC MachineCoin
+SEL SelenCoin
+NOO Noocoin
+CHAO 23 Skidoo
+XGB GoldenBird
+YMC YamahaCoin
+JOK JokerCoin
+GBIT GravityBit
+TEC TeCoin
+BOMB BombCoin
+RIDE Ride My Car
+KED Klingon Empire Darsek
+CNO Coino
+WEALTH WealthCoin
+IOP Internet of People
+XSPEC Spectre
+PEPECASH Pepe Cash
+CLICK Clickcoin
+ELS Elysium
+KUSH KushCoin
+ERY Eryllium
+PLU Pluton
+PRES President Trump
+BTZ BitzCoin
+OPES Opes
+UBQ Ubiq
+RATIO Ratio
+BAN Babes and Nerds
+NICE NiceCoin
+SMF SmurfCoin
+CWXT CryptoWorldXToken
+TECH TechCoin
+CIR CircuitCoin
+LEPEN LePenCoin
+ROUND RoundCoin
+MARX MarxCoin
+TAT Tatiana Coin
+HAZE HazeCoin
+PRX Printerium
+NRC Neurocoin
+IMPCH Impeach
+ERR ErrorCoin
+TIC TrueInvestmentCoin
+NUKE NukeCoin
+EOC EveryonesCoin
+SFC Solarflarecoin
+JANE JaneCoin
+PARA ParanoiaCoin
+MM MasterMint
+BXC Bitcedi
+NDOGE NinjaDoge
+ZBC Zilbercoin
+MLN Melon
+FRST FirstCoin
+PAY TenX
+ORO OroCoin
+ALEX Alexandrite
+TBCX TrashBurn
+MCAR MasterCar
+THS TechShares
+ACES AcesCoin
+UAEC United Arab Emirates Coin
+EA EagleCoin
+PIE Persistent Information Exchange
+CREA CreativeChain
+WISC WisdomCoin
+BVC BeaverCoin
+FIND FindCoin
+MLITE MeLite
+STALIN StalinCoin
+TSE TattooCoin
+VLTC VaultCoin
+BIOB BioBar
+SWT Swarm City Token
+PASL Pascal Lite
+ZER Zero
+CDN Canada eCoin
+TPAY TrollPlay
+NETKO Netko
+ZOI Zoin
+HONEY Honey
+MUSIC Musicoin
+DTB Databits
+VEG BitVegan
+MBIT Mbitbooks
+VOLT BitVolt
+MGO MobileGo
+EDG Edgeless
+B@ BankCoin
+BEST BestChain
+ZENI Zennies
+PLANET PlanetCoin
+DUCK DuckDuckCoin
+BNX BnrtxCoin
+BSTK BattleStake
+DBIX DubaiCoin
+AMIS AMIS
+XVP VirtacoinPlus
+BOAT Doubloon
+TAJ TajCoin
+IMX Impact
+CJC CryptoJournal
+AMY Amygws
+QBT Cubits
+SRC* StarCredits
+EB3 EB3coin
+XVE The Vegan Initiative
+FAZZ FazzCoin
+APT Aptcoin
+BLAZR BlazerCoin
+ARPA ArpaCoin
+BNB* Boats and Bitches
+UNI Universe
+ECO ECOcoin
+DARK Dark
+RLC iEx.ec
+ATMS Atmos
+INPAY InPay
+VISIO Visio
+GOT Giotto Coin
+CXT Coinonat
+EMPC EmporiumCoin
+GNO Gnosis
+LGD Legends Cryptocurrency
+TAAS Token as a Service
+BUCKS SwagBucks
+XBY XtraBYtes
+GUP Guppy
+MCRN MacronCoin
+LUN Lunyr
+WSX WeAreSatoshi
+IEC IvugeoEvolutionCoin
+IMS Independent Money System
+CNT Centurion
+LMC LomoCoin
+TKN TokenCard  
+BTCS Bitcoin Scrypt
+PROC ProCurrency
+XGR GoldReserve
+WRC* WarCoin
+HMQ Humaniq
+BCAP Blockchain Capital
+DUO ParallelCoin
+GRW GrowthCoin
+APX Apx
+MILO MiloCoin
+OLV OldV
+ILC ILCoin
+PZM Prizm
+PHR Phreak
+ANT Aragon
+PUPA PupaCoin
+RICE RiceCoin
+XCT C-Bits
+DEA Degas Coin
+RED Redcoin
+ZSE ZSEcoin
+CTIC Coinmatic
+TAP TappingCoin
+BITOK BitOKX
+MUU MilkCoin
+INF8 Infinium-8
+MNE Minereum
+DICE Etheroll
+SUB* Subscriptio
+USC Ultimate Secure Cash
+DUX DuxCoin
+XPS PoisonIvyCoin
+EQT EquiTrader
+INSN Insane Coin
+BAT Basic Attention Token
+MAT* Manet Coin
+F16 F16Coin
+HAMS HamsterCoin
+QTUM QTUM
+NEF NefariousCoin
+ZEN ZenCash
+BOS BOScoin
+QWARK Qwark
+IOT IOTA
+QRL Quantum Resistant Ledger
+ADL Adelphoi
+PTOY Patientory
+LKK Lykke
+ESP Espers
+MAD SatoshiMadness
+DYN Dynamic
+SEQ Sequence
+MCAP MCAP
+MYST Mysterium
+VERI Veritaseum
+SNM SONM
+SKY Skycoin
+CFI Cofound.it
+SNT Status Network Token
+AVT AventCoin
+CVC Civic
+IXT iXledger
+DENT Dent
+BQX Ethos
+STA Starta
+TFL True Flip Lottery
+XTZ Tezos
+MCO Monaco
+NMR Numerai
+ADX AdEx
+QAU Quantum
+ECOB EcoBit
+PLBT Polybius
+USDT Tether
+AHT Ahoolee
+ATB ATB coin
+TIX Blocktix
+CHAN ChanCoin
+CMP Compcoin
+RVT Rivetz
+HRB Harbour DAO
+NET* Nimiq Exchange Token
+8BT 8 Circuit Studios
+CDT CoinDash
+DNT district0x
+SUR Suretly
+MIV MakeItViral
+BET* DAO.casino
+SAN Santiment
+KIN Kin
+XEL Elastic
+NVST NVO
+FUN FunFair
+FUNC FunCoin
+PQT PAquarium
+WTT Giga Watt
+MTL Metal
+HVN Hive Project
+MYB MyBit
+PPT Populous
+SNC SunContract
+STAR Starbase
+COR Corion
+XRL Rialto.AI
+OROC Orocrypt
+OAX OpenANX
+DDF Digital Developers Fund
+GGS Gilgam
+DNA Encrypgen
+FYN FundYourselfNow
+DCY Dinastycoin
+CFT CryptoForecast
+DNR Denarius
+VUC Virta Unique Coin
+BTPL Bitcoin Planet
+UNIFY Unify
+IPC ImperialCoin
+BRIT BritCoin
+AMMO Ammo Rewards
+SOCC SocialCoin
+MASS Mass.Cloud
+IML IMMLA
+XUC Exchange Union
+STU BitJob
+PLR Pillar
+GUNS GeoFunders
+IFT InvestFeed
+CAT* BitClave
+PRO Propy
+SYC SynchroCoin
+IND Indorse
+TRIBE TribeToken
+ZRX 0x
+TNT Tierion
+PRE* Presearch
+COSS COSS
+STORM Storm
+STORJ Storj
+OMG OmiseGo
+OTX Octanox
+EQB Equibit
+VOISE Voise
+ETBS EthBits
+CVCOIN Crypviser
+DRP DCORP
+BOG Bogcoin
+NDC NeverDie
+POE Po.et
+ADT AdToken
+AE Aeternity
+UET Useless Ethereum Token
+PART Particl
+AGRS Agoras Token
+SAND BeachCoin
+DMT DMarket
+DAS DAS
+ADST Adshares
+CAT BlockCAT
+XCJ CoinJob
+RKC Royal Kingdom Coin
+NLC2 NoLimitCoin
+LINDA Linda
+ANCP Anacrypt
+RCC Reality Clash
+SNK Sosnovkino
+CABS CryptoABS
+OPT Opus
+ZNT OpenZen
+BITSD Bits Digit
+XLC LeviarCoin
+SKIN Skincoin
+MSP Mothership
+HIRE HireMatch
+BBT* BrickBlock
+REAL REAL
+DFBT DentalFix
+EQ EQUI
+WLK Wolk
+VIB Viberate
+ONION DeepOnion
+BTX Bitcore
+ICE iDice
+XID Sphre AIR
+ATOM* Cosmos
+MANA Decentraland
+ICOO ICO OpenLedger
+TME Timereum
+SMART SmartCash
+SIGT Signatum
+ONX Onix
+ARENA Arena
+WINK Wink
+BCH Bitcoin Cash / BCC
+DGPT DigiPulse
+CSNO BitDice
+KICK KickCoin
+SDAO Solar DAO
+STX Stox
+BNB Binance Coin
+KCN Kencoin
+QVT Qvolta
+TIE Ties Network
+AUT Autoria
+CTT CodeTract
+GRWI Growers International
+MTH Monetha
+CCC CCCoin
+UMC Umbrella Coin
+BMXT Bitmxittz
+GAS Gas
+FIL FileCoin
+OCL Oceanlab
+BNC Benjacoin
+TOM Tomahawkcoin
+BTM* Bytom
+XAS Asch
+DCN Dentacoin
+DLT Agrello Delta
+MRV Macroverse
+MBRS Embers
+SUB Substratum Network
+MET Memessenger
+NEBL Neblio
+PGL Prospectors
+AUTH Authoreon
+CASH* Cash Poker Pro
+DTCT DetectorToken
+CTR Centra
+PRG Paragon
+THNX ThankYou
+WORM HealthyWorm
+FUCK Fuck Token
+VNT Veredictum
+SIFT Smart Investment Fund Token
+IGNIS Ignis
+IWT IwToken
+JDC JustDatingSite
+ITT Intelligent Trading Technologies
+AIX Aigang
+EVX Everex
+ENTRP Entropy Token
+ICOS ICOBox
+PIX Lampix
+MEDI MediBond
+HGT Hello Gold
+LTA Litra
+NIMFA Nimfamoney
+SCOR Scorista
+MLS CPROP
+KEX KexCoin
+COB Cobinhood
+ATL ATLANT
+ARI* BeckSang
+MAG* Magos
+DFT Draftcoin
+VEN Vechain
+LAT Latium
+SOJ Sojourn Coin
+HDG Hedge Token
+STCN Stakecoin
+SQP SqPay
+RIYA Etheriya
+LNK Ethereum.Link
+AMB Ambrosus
+WAN Wanchain
+MNT GoldMint
+CFT* Credo
+BLX Blockchain Index
+BKX BANKEX
+BOU Boulle
+OXY Oxycoin
+AMT Acumen
+GIM Gimli
+NYC NewYorkCoin
+LBTC LiteBitcoin
+FRAZ FrazCoin
+EMT EasyMine
+GXC Gx Coin
+HBT Hubiit
+KRONE Kronecoin
+SRT Scrypto
+AVA Avalon
+ACC AdCoin
+Z2 Z2 Coin
+LINX Linx
+BLAS BlakeStar
+GOOD GoodCoin
+SCL Social Nexus
+TRV Travel Coin
+CRTM Cryptum
+EON Exscudo
+PST Primas
+PRIX Privatix
+CTX CarTaxi
+ENJ Enjin Coin
+CNX Cryptonex
+DRC Dropcoin
+FUEL Etherparty
+ACE TokenStars
+UCASH U.CASH
+WRT WRTcoin
+ORME Ormeus Coin
+DEEP Deep Gold
+TMT ToTheMoon
+CCT* Crystal Clear Token 
+WSH Wish Finance
+ARNA* ARNA Panacea
+ABC AB-Chain
+PRP Papyrus
+BMC Blackmoon Crypto
+SKR* Skrilla Token
+3DES 3DES
+PYN Paycentos
+KAPU Kapu
+FC Facecoin
+RCN Ripio
+NRN Doc.ai Neuron
+EVC Eventchain
+LINK ChainLink
+WIZ Crowdwiz
+EDO Eidoo
+ATKN A-Token
+KNC Kyber Network
+RUSTBITS Rustbits
+REX REX
+ETHD Ethereum Dark
+TRX Tronix
+H2O Hydrominer
+TKT Crypto Tickets
+RHEA Rhea
+ART Maecenas
+DRT DomRaider
+SNOV Snovio
+DTT DreamTeam Token
+STOCKBET StockBet
+PLM Algo.Land
+SALT Salt Lending
+SND Sandcoin
+LRC Loopring
+ZNA Zenome
+EZM EZMarket
+ODN Obsidian
+POLL ClearPoll
+MTK Moya Token
+CAS Cashaa
+MAT MiniApps
+GJC Global Jobcoin
+WIC Wi Coin
+WEB Webcoin
+WAND WandX
+ELIX Elixir
+HAC Hackspace Capital
+ADA Cardano
+YOYOW Yoyow
+REC Regalcoin
+BIS Bismuth
+OPP Opporty
+ROCK Ice Rock Mining
+ICX ICON Project
+WISH* WishFinance
+FLASH FLASH coin
+GRF* Graft Blockchain
+BTCZ BitcoinZ
+CZC Crazy Coin
+PPP PayPie
+GUESS Peerguess
+CAN CanYaCoin
+ETP Metaverse
+CIX Cryptonetix
+ERT Esports.com
+BAC* LakeBanker
+FLIK FLiK
+TRIP Trippki
+MBT Multibot
+JVY Javvy
+ALIS ALISmedia
+LEV Leverj
+ARBI Arbi
+ELT Eloplay
+REQ Request Network
+ARN Aeron
+DAT Datum
+VIBE VIBEHub
+ROK Rockchain
+XRED X Real Estate Development
+DAY Chronologic
+AST AirSwap
+FLP Gameflip
+HXT HextraCoin
+CND Cindicator
+VRP* Prosense.tv
+NTM NetM
+TZC TrezarCoin
+ENG Enigma
+MCI Musiconomi
+COV Covesting
+WAX Worldwide Asset eXchange
+AIR AirToken
+NTO Fujinto
+ATCC ATC Coin
+WILD Wild Crypto
+ELTC2 eLTC
+ILCT ILCoin Token
+POWR Power Ledger
+C20 Crypto20
+GXC* GenXCoin
+ELM Elements
+TER TerraNovaCoin
+XCS CybCSec Coin
+BQ Bitqy
+CAV Caviar
+CLOUT Clout
+PTC* Propthereum
+WABI WaBi
+EVR Everus
+TOA TOA Coin
+MNZ Monaize
+RPX Red Pulse
+MDA Moeda
+ZSC Zeusshield
+AURS Aureus
+CAG Change
+PKT Playkey
+INXT Internxt
+ATS Authorship
+RGC RG Coin
+EBET EthBet
+R Revain
+MOD Modum
+CPAY CryptoPay
+BON* Bonpay
+APPC AppCoins
+WHL WhaleCoin
+UP UpToken
+ETG Ethereum Gold
+WOMEN WomenCoin
+MAY Theresa May Coin
+RNDR Render Token
+EDDIE Eddie coin
+SCT* Soma
+KCS Kucoin
+GAT GATCOIN
+BLUE Ethereum Blue
+FLLW Follow Coin
+WYR Wyrify
+VZT Vezt
+INDI IndiCoin
+BAR TBIS token
+ECASH Ethereum Cash
+DRGN Dragonchain
+ODMC ODMCoin
+CABS* CyberTrust
+BRAT Brat
+DTR Dynamic Trading Rights
+TKR CryptoInsight
+KEY SelfKey
+ELITE EthereumLite
+XIOS Xios
+DOVU DOVU
+ETN Electroneum
+REA Realisto
+AVE Avesta
+XNN Xenon
+LOAN* Lendoit
+ZAB ZABERcoin
+MDL Modulum
+BT1 Bitfinex Bitcoin Future
+BT2 Bitcoin SegWit2X
+SHP Sharpe Capital
+JCR Jincor
+XSB Extreme Sportsbook
+KEK KekCoin
+AID AidCoin
+BHC* BlackholeCoin
+ALTCOM AltCommunity Coin
+OST Simple Token
+DATA Streamr DATAcoin
+UGC ugChain
+DTC Datacoin
+PLAY HEROcoin
+CLD Cloud
+OTN Open Trading Network
+POS PoSToken
+NEOG NEO Gold
+EXN ExchangeN
+INS INS Ecosystem
+TRCT Tracto
+UKG UnikoinGold
+BTCRED Bitcoin Red
+EBCH eBitcoinCash
+JPC* J Coin
+AXT AIX
+RDN* Raiden Network
+NEU Neumark
+RUPX Rupaya
+XIN* Infinity Economics
+DUTCH Dutch Coin
+HNC* Huncoin
+HST Decision Token
+BCPT BlockMason Credit Protocol
+BDL Bitdeal
+CMS COMSA
+XBL Billionaire Token
+ZEPH Project Zephyr
+GES Galaxy eSolutions
+NULS Nuls
+LCASH LitecoinCash
+CFD Confido
+SPHTX SophiaTX
+SRN SirinLabs
+DBET Decent.bet
+NEWB Newbium
+LIFE LIFE
+RMC Russian Mining Coin
+CREDO Credo
+MSR Masari
+ESC* Ethersportcoin
+EVN Envion
+BNK Bankera
+ELLA Ellaism
+ROCK* RocketCoin 
+DRXNE Droxne
+SKR Sakuracoin
+GRID Grid+
+XPTX PlatinumBAR
+GVT Genesis Vision
+ETK Energi Token
+ASTRO Astronaut
+GMT Mercury Protocol
+EPY* Emphy
+SOAR Soarcoin
+EXY Experty
+HOLD Interstellar Holdings
+MNX MinexCoin
+CRDS Credits
+VIU Viuly
+DBR Düber
+ABT Advanced Browsing Token
+QSP Quantstamp
+RIPT RiptideCoin
+BBT BitBoost
+CSTL Castle
+ICC Insta Cash Coin
+QASH Quoine Liquid
+KNC** KingN Coin
+TRIA Triaconta
+PBL Publica
+STEX STEX
+UFR Upfiring
+LOCI LociCoin
+LAB Labrys
+FLIXX Flixxo
+FRD Farad
+PFR PayFair
+ECA Electra
+LDM Ludum token
+LTG LiteCoin Gold
+BCD Bitcoin Diamond
+STP StashPay
+SPANK SpankChain
+WISH MyWish
+AERM Aerium
+PLX PlexCoin
+NIO Autonio
+ETHB EtherBTC
+CDX Commodity Ad Network
+FOOD FoodCoin
+UQC Uquid Coin
+LEND EthLend
+SETH Sether
+TIO* Tio Tour Guides
+XSH SHIELD
+BCD* BitCAD
+BCO* BridgeCoin
+BDG BitDegree
+ONG onG.social
+PRL Oyster Pearl
+BTCM BTCMoon
+ETBT Ethereum Black
+ZCG ZCashGOLD
+MUT Mutual Coin
+AION Aion
+MEOW Kittehcoin
+DIVX Divi
+CNBC Cash & Back Coin
+RHOC RChain
+ARC*  Arcade City
+XUN UltraNote
+RFL RAFL
+COFI CoinFi
+GRX Gold Reward Token
+NTK Neurotoken
+ERO Eroscoin
+CMT* CyberMiles
+RLX Relex
+MAN People
+ACT* Achain
+NRO Neuro
+X8X X8Currency
+COAL BitCoal
+DAXX DaxxCoin
+FNT FinTab
+XMRG Monero Gold
+BTCE EthereumBitcoin
+FYP FlypMe
+BOXY BoxyCoin
+EGAS ETHGAS
+DPP Digital Assets Power Play
+TGT TargetCoin
+BMT BMChain
+MTRC ModulTrade
+BTCL BTC Lite
+PCN PeepCoin
+RBTC Bitcoin Revolution
+CRED Verify
+SBTC Super Bitcoin
+KLK Kalkulus
+AC3 AC3
+GTO GIFTO
+TNB Time New Bank
+CHIPS* CHIPS
+HKN Hacken
+B2B B2B
+LOC* LockChain
+MNT* Media Network Coin
+ITNS IntenseCoin
+SMT* SmartMesh
+GER GermanCoin
+LTCU LiteCoin Ultra
+EMGO MobileGo
+BTCA Bitair
+HQX HOQU
+ETF EthereumFog
+BCX* BitcoinX
+LUX** Luxmi Coin
+STAK Straks
+BCOIN BannerCoin
+BNTY Bounty0x
+BRD Bread token
+HAT Hawala.Today
+ELF aelf
+DBC DeepBrain Chain
+ZEN* Zen Protocol
+POP PopularCoin
+BAS BitAsean
+UTT United Traders Token
+HBC HomeBlockCoin
+AMM MicroMoney
+DAV DavorCoin
+GET Guaranteed Entrance Token
+ERC20 Index ERC20
+ITC IoT Chain
+HTML HTML Coin
+PHO Photon
+XTRA ExtraCredit
+NTWK Network Token
+SMART* SmartBillions
+GNX Genaro Network
+NAS Nebulas
+EREAL eREAL
+CPN CompuCoin
+QLC QLINK
+BTSE BitSerial
+OMGC OmiseGO Classic
+Q2C QubitCoin
+SPF SportyFi
+TDS TokenDesk
+FLS Fuloos Coin
+GUN GunCoin
+DFS DFSCoin
+CL CoinLancer
+AUA ArubaCoin
+TSL Energo
+IRL IrishCoin
+PMA PumaPay
+TROLL Trollcoin
+SGR Sugar Exchange
+JET Jetcoin
+MDS MediShares
+LCP Litecoin Plus
+GTC Game
+IETH iEthereum
+GCC* TheGCCcoin
+SDRN Sanderon
+KBR Kubera Coin
+HPB High Performance Blockchain
+MONK Monkey Project
+JINN Jinn
+SET Setcoin
+BRC BrightCoin
+HIVE Hive
+GX GameX
+ETL EtherLite
+TEL Telcoin
+BRC* BinaryCoin
+ZAP Zap
+AIDOC AI Doctor
+ECC ECC
+LCT LendConnect
+INT Internet Node Token
+STN Steneum Coin
+PCOIN Pioneer Coin
+BLN Bolenum
+CYDER Cyder Coin
+EKO EchoLink
+UBTC UnitedBitcoin
+BTO Bottos
+ARCT ArbitrageCT
+IMV ImmVRse
+AURA Aurora
+IDH IndaHash
+CBT CommerceBlock Token
+XBP Black Pearl Coin
+EXRN EXRNchain
+AGI SingularityNET
+BFT BF Token (BFT)
+LGO Legolas Exchange
+SGL Sigil
+DTA Data
+CV CarVertical
+MCU MediChain
+OCN Odyssey
+THETA Theta
+MDT* Measurable Data Token 
+PRPS Purpose
+DUBI Decentralized Universal Basic Income
+BPT Blockport
+IOST IOS token
+TCT TokenClub 
+TRAC OriginTrail
+MOT Olympus Labs
+ZIL Zilliqa
+HORSE Ethorse 
+QUN QunQun
+ACC* Accelerator Network
+SWFTC SwftCoin
+SENT Sentinel
+IPL InsurePal
+SHA Shacoin
+PYLNT Pylon Network
+EVE Devery
+YEE Yee
+GTC* Global Tour Coin
+BTW BitcoinWhite
+AXP aXpire
+FOTA Fortuna
+CPC* CPChain
+PXS Pundi X
+REF RefToken
+SXDT SPECTRE Dividend Token
+SXUT SPECTRE Utility Token
+FAIR* FairGame
+VAL Valorbit
+MAN* Matrix AI Network
+BCDN BlockCDN 
+SAF Safinus
+GFT Giftcoin
+DNN DNN Token
+DTX DataBroker DAO
+POLY* Polymath Network
+XTO Tao
+RUFF Ruff
+ELA Elastos
+STK STK Token
+CXO CargoX
+WRC Worldcore
+DIM DIMCOIN
+SIB SibCoin
+BLT Bloom Token
+PHR* Phore
+MUE MonetaryUnit
+NEOS NeosCoin
+BSD BitSend
+VEE BLOCKv
+ELTCOIN ELTCOIN
+PURE Pure
+GRLC Garlicoin
+WT WeToken
+UTK Utrust
+NGC NagaCoin
+XRB Nano
+CROAT Croat
+EBST eBoost
+300 300 token
+SC Siacoin
+XRA Ratecoin
+ARG Argentum
+BTM BitMark
+EAC EarthCoin
+LHC LHCoin
+SISA Strategic Investments in Significant Areas
+EBIT eBit
+TPAY* TokenPay
+TNC Trinity Network Credit
+BRK BreakoutCoin
+BRX Breakout Stake
+AR* Ar.cash
+BLZ Bluzelle
+START StartCoin
+XGOX Go!
+CUZ Cool Cousin
+EMD Emerald
+WTC Waltonchain
+WSC WiserCoin
+TRI Triangles Coin
+ATM ATMChain
+ATFS ATFS Project
+HTML5 HTML5 Coin
+GCN gCn Coin
+ACT ACT
+FND FundRequest
+XAI* AICoin
+SMNX SMNX
+SENSE Sense Token
+8S Elite 888
+GLA Gladius
+BTG Bitcoin Gold
+WAVES Waves
+CPY COPYTRACK
+SCR Scorum
+BM* Bitcomo
+WBTC WorldBTC
+SPICE SPiCE Venture Capital 
+REPUX Repux
+DOC* Doc Coin
+VRC VeriCoin
+HALAL Halal
+VRM Verium
+MCT 1717 Masonic Commemorative Token
+CWIS Crypto Wisdom Coin
+PPC PeerCoin
+MBC My Big Coin
+TRTL TurtleCoin
+ACOIN ACoin
+AERO Aero Coin
+APEX ApexCoin
+ARCH ArchCoin
+BET BetaCoin
+QTL Quatloo
+LIMX LimeCoinX
+BTB BitBar
+BTE ByteCoin
+CIN CinderCoin
+CXC CheckCoin
+CSC CasinoCoin
+DRKC DarkCash
+DSB DarkShibe
+DVC DevCoin
+ELC Elacoin
+FLAP Flappy Coin
+FST FastCoin
+GLYPH GlyphCoin
+HUC HunterCoin
+IFC Infinite Coin
+JBS JumBucks Coin
+JUDGE JudgeCoin
+KEY* KeyCoin
+KGC KrugerCoin
+LKY LuckyCoin
+LTCD LitecoinDark
+LXC LibrexCoin
+MED MediterraneanCoin
+MIN Minerals Coin
+NET NetCoin
+NRB NoirBits
+SBC StableCoin
+SDC ShadowCash
+SHLD ShieldCoin
+SILK SilkCoin
+TIT TitCoin
+TOR TorCoin
+TTC TittieCoin
+ULTC Umbrella
+USDE UnitaryStatus Dollar
+VOOT VootCoin
+XAI SapienceCoin
+XBOT SocialXbotCoin
+XBS Bitstake
+XCASH Xcash
+XXX XXXCoin
+BURST BurstCoin
+TRON Positron
+SLING Sling Coin
+KTK KryptCoin
+WBB Wild Beast Coin
+GRID* GridPay
+MMXIV MaieutiCoin
+AM AeroMe
+MTR MasterTraderCoin
+BCR BitCredit
+ASN Ascension Coin
+MARYJ MaryJane Coin
+OMC OmniCron
+HYPER HyperCoin
+UNAT Unattanium
+GMC Gridmaster
+CYC ConSpiracy Coin 
+GSX GlowShares
+VIOR ViorCoin
+VIRAL Viral Coin
+QSLV Quicksilver coin
+SIGU Singular
+GLOBE Global
+CIRC CryptoCircuits
+MIL Milllionaire Coin
+XPH PharmaCoin
+GRM GridMaster
+BITZ Bitz Coin
+BOB Bob Coin
+MAPC MapCoin
+MI XiaoMiCoin
+BST BitStone
+HIRE* BitHIRE
+KARMA Karmacoin
+DOGED DogeCoinDark
+BIOS BiosCrypto
+GBT GameBetCoin
+SAR SARCoin
+DNET Darknet
+PXL Phalanx
+OLDSF OldSafeCoin
+SSTC SunShotCoin
+VTA VirtaCoin
+COIN* Coin
+ANTI Anti Bitcoin
+KAT KATZcoin
+GIZ GIZMOcoin
+SCRT SecretCoin
+DBG Digital Bullion Gold
+CLINT Clinton
+ORLY OrlyCoin
+BIT16 16BitCoin
+WAY WayCoin
+DCK DickCoin
+XPO Opair
+FIRE FireCoin
+GBRC GBR Coin
+CSH CashOut
+NTCC NeptuneClassic
+MAR MarijuanaCoin
+DON DonationCoin
+RAIN Condensate
+ARGUS ArgusCoin
+BENJI BenjiRolls
+ECC* E-CurrencyCoin
+BT BuildTeam
+NAMO NamoCoin
+BPL BlockPool
+VOT Votecoin
+JNT Jibrel Network Token
+CHSB SwissBorg
+ZRC ZrCoin
+FRWC Frankywillcoin
+LCK Luckbox
+MRT MinersReward
+IOU IOU1
+eFIC FIC Network
+EQUI EQUI Token
+EBC EBCoin
+TKY THEKEY Token
+MTN* Medicalchain
+LA LATOKEN
+PARETO Pareto Network Token
+PIVX Private Instant Verified Transaction
+XZC ZCoin
+BLOCK BlockNet
+ION Ionomy
+PURA Pura
+CRW Crown Coin
+COLX ColossusCoinXT
+GBX GoByte
+NTRN Neutron
+XLR Solaris
+POLIS PolisPay
+CRC CrowdCoin
+TX Transfer
+ALQO Alqo
+KORE Kore
+KZC KZCash
+BWK Bulwark
+BTDX Bitcloud 2.0
+INN Innova
+CRAVE* Crave-NG
+VSX Vsync
+SEND Social Send
+ORE Galactrum
+CHC ChainCoin
+SPK Sparks
+TRC TerraCoin
+VIVO VIVO Coin
+MXT MartexCoin
+GNR Gainer
+CMPCO CampusCoin
+PIRL Pirl
+SAGA SagaCoin
+XFT Footy Cash
+HHEM Healthureum
+FOR Force Coin
+DP DigitalPrice
+ROOTS RootProject
+PHILS PhilsCurrency
+DSR Desire
+CRM Cream
+GOA GoaCoin
+RNS RenosCoin
+BRO Bitradio
+SCORE Scorecoin
+ARC ArcticCoin
+XCPO Copico
+XCXT CoinonatX
+ENT Eternity
+MDC* MadCoin
+SUCR Sucre
+PNX PhantomX
+ITZ Interzone
+ACCO Accolade
+MGN MagnaCoin
+AMS Amsterdam Coin
+SUMO Sumokoin
+XP Experience Points
+DMD Diamond
+MUN MUNcoin
+TIG Tigereum
+ING Iungo
+DXT DataWallet
+SAT Satisfaction Token
+ABYSS The Abyss
+CRL Cryptelo Coin
+REM REMME
+BCA Bitcoin Atom
+PBT Primalbase
+DAR Darcrus
+WCT Waves Community Token
+MER Mercury
+WGO WavesGO
+ETT EncryptoTel
+WBTC* wBTC
+PING CryptoPing
+WGR Wagerr
+MBI Monster Byte Inc
+AHT* Bowhead Health
+SPN Spoon
+KING King93
+COE CoEval
+CORE Core Group Asset
+WNET Wavesnode.net
+MNY Monkey
+MINEX Minex
+KOLION Kolion
+RYZ Anryze
+BDR BlueDragon
+TKS Tokes
+ALTOCAR AltoCar
+ETH Ethereum
+BEE Bee Token
+MOBI Mobius
+ADB Adbank
+USX Unified Society USDEX
+RUP Rupee
+FSN* Fusion
+RBX RiptoBuX
+CWV CryptoWave
+MTN TrackNetToken
+DTRC Datarius
+ARY Block Array
+LDC* LeadCoin
+EXCL Exclusive Coin
+FRK Franko
+GP GoldPieces
+BLRY BillaryCoin
+EFYT Ergo
+CHAT ChatCoin
+BUN BunnyCoin
+NKC Nukecoinz
+TRDT Trident
+GRO Gron Digital
+STAC STAC
+JEW Shekel
+CWX Crypto-X
+JC JesusCoin
+MZX Mosaic Network
+EDT EtherDelta
+NBT NuBits
+MTX Matryx
+SKC Skeincoin
+XBTY Bounty
+FLOT FireLotto
+MINT MintCoin
+XBC BitcoinPlus
+HPC HappyCoin
+BCCOIN BitConnect Coin
+THC The Hempcoin
+GLT GlobalToken
+MARS MarsCoin 
+XCP CounterParty
+HSR Hshare
+HT Huobi Token
+PAC PacCoin
+SHND StrongHands
+XDN DigitalNote 
+TIO Trade.io
+DCT Decent
+BUZZ BuzzCoin
+LUX LUXCoin
+888 Octocoin
+MZC MazaCoin
+MEME Pepe
+TAU Lamden Tau
+BIO Biocoin
+NMS Numus
+CAT1 Catcoin
+OPC OP Coin
+TOK TokugawaCoin
+ZPT Zeepin
+PLC PlusCoin
+CRDNC Credence Coin
+ET4 Eticket4
+XVG Verge
+ADBL Adblurb
+JIO* Jiocoin
+TTT Tap Project
+INK Ink
+WELL Well
+NEC* Ethfinex Nectar Token
+WPR WePower
+DRG Dragon Coin
+XCD Capdax
+DTC** DivotyCoin
+DRPU DRP Utility
+DADI DADI
+GXS GXShares
+BBP BiblePay
+HLC Halal-Chain
+MED* MediBloc
+BOT Bodhi
+QBT* Qbao
+KREDS KREDS
+XDCE XinFin Coin
+ECHT e-Chat
+KRM Karma
+CDY Bitcoin Candy
+SSS ShareChain
+DDD Scry.info
+BIFI BitcoinFile
+BTCP Bitcoin Private
+BTF Blockchain Traded Fund
+IPC* IPChain
+RCT RealChain
+SHOW ShowCoin
+STC StarChain
+AIT AIT Token
+DTT* Data Trading
+STQ Storiqa Token
+NVT NaviAddress
+VVI VV Coin
+TEN Tokenomy
+BETR BetterBetting
+CRPT Crypterium
+LWF Local World Forwarders
+DEB Debitum Token
+PYP PayPro
+GMR Gimmer
+CARE Care Token
+ALT ALTcoin
+TRF Travelflex
+KB3 B3Coin
+LCC LitecoinCash
+NYX NYXCOIN
+REBL Rebellious
+MWAT RED MegaWatt
+ZYD ZayedCoin
+DASH DigitalCash
+PTR Petro
+EBTC eBitcoin
+FLIP BitFlip
+NLG Gulden
+UTN Universa
+VANY Vanywhere
+SGN Signals Network
+NBX Noxbox
+ILT iOlite
+LYK Loyakk Vega
+IQB Intelligence Quotient Benefit
+BANCA BANCA
+ENK Enkidu
+ALX ALAX
+SHPING Shping Coin
+EARTH Earth Token
+SMT** Social Media Market
+GENE PARKGENE
+CLIN Clinicoin
+ORI Origami
+FSBT Forty Seven Bank
+HION Handelion
+GEA Goldea
+ONL On.Live
+SPEND Spend
+VIN VinChain
+SFU Saifu
+HGS HashGains
+VPRC VapersCoin
+CJT ConnectJob Token
+EOS EOS
+VLR Valorem
+DRC* Darico
+DHT DeHedge Token
+CRE* Creditcoin
+WCG World Crypto Gold
+CAPP Cappasity
+XMCC Monoeci
+CRC** CryCash
+NBR Niobio Cash
+HLP Purpose Coin
+Q1S Quantum1Net
+FDX fidentiaX
+EQL EQUAL
+VULC Vulcano
+MAG Magnet
+SPA SpainCoin
+UNRC UniversalRoyalCoin
+TOKC Tokyo Coin
+SXC SexCoin
+HYS Heiss Shares
+LCWP LiteCoinW Plus
+BCR* Bitcoin Royal
+TFOOD TE-FOOD
+SPC* SpaceChain
+GOOD* Goodomy
+DTH Dether
+SOC All Sports Coin
+TDX Tidex Token
+BTC Bitcoin
+BITCAR BitCar
+CLN Colu Local Network
+JOY JoyToken
+MLT MultiGames
+VST Vestarin
+LYM Lympo
+NPX Napoleon X
+LNC BlockLancer
+BERRY Rentberry
+REN Republic Token
+HBZ Helbiz
+BAX BABB
+SRNT Serenity
+SPX* Sp8de
+CCOS CrowdCoinage
+CFTY Crafty
+LUC Play 2 Live
+MFG SyncFab
+GAI GraphGrail AI
+DNO Denaro
+ABT* ArcBlock
