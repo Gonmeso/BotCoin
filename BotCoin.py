@@ -102,10 +102,11 @@ def setUpdateNumber(number):
     updateFile.close()
 
 # WIP function, to send keyboard with cryptocurrencies list
-def sendCryptoKeyboard(chat, keyboard):
+def sendCryptoKeyboard(chat, keyboard = cmn.keyboardCrypto):
     
-    sendMsg = '{}sendMessage?chat_id={}&reply_markup={}'.format(cmn.url, str(chat), json.dumps(keyboard))
-    print(sendMsg)
+    sendMsg = '{}sendMessage?chat_id={}&text=&{}'.format(cmn.url, str(chat),
+                                                      urllib.parse.urlencode({'reply_markup' : json.dumps(keyboard)}))
+#    print(sendMsg)
     requests.post(sendMsg)
 
 # Get all cryptocurrencies available at CryptoCompare
@@ -146,6 +147,7 @@ def isCryptoAvailable(crypto):
 def handleUpdate(update):
     
     chat = update['from']['id']
+    sendCryptoKeyboard(chat)
     
     if 'text' in update:
         
@@ -187,7 +189,7 @@ def main():
                 
                 if not cmn.keepExecution:
                     print('WARN: the bot has been stopped')
-                    break
+                    return
                 
             setUpdateNumber(int(lastUnattended) + 1 )
             
