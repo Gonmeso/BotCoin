@@ -1,13 +1,9 @@
 LTC Litecoin
 XMR Monero
 NXT Nxt
-ETC Ethereum Classic
 DOGE Dogecoin
 ZEC ZCash
 BTS Bitshares
-DGB DigiByte
-XRP Ripple
-BTCD BitcoinDark
 CRAIG CraigsCoin
 XPY PayCoin
 PRC ProsperCoin
@@ -60,7 +56,6 @@ CBX CryptoBullion
 CCN CannaCoin
 CINNI CINNICOIN
 CLAM CLAMS
-CLOAK CloakCoin
 CLR CopperLark
 CMC CosmosCoin
 CNC ChinaCoin
@@ -68,9 +63,7 @@ CNL ConcealCoin
 COMM Community Coin
 COOL CoolCoin
 CRACK CrackCoin
-CRC* CraftCoin
 CRYPT CryptCoin
-DEM eMark
 EFL E-Gulden
 EMC2 Einsteinium
 EXE ExeCoin
@@ -84,7 +77,6 @@ FRAC FractalCoin
 FTC FeatherCoin
 GDC GrandCoin
 GLC GlobalCoin
-GLD GoldCoin
 GLX GalaxyCoin
 GML GameLeagueCoin
 GUE GuerillaCoin
@@ -150,19 +142,16 @@ XLM Stellar
 SUPER SuperCoin
 SWIFT BitSwift
 SYNC SyncCoin
-SYS SysCoin
 TAG TagCoin
 TAK TakCoin
 TES TeslaCoin
 TGC TigerCoin
 UNB UnbreakableCoin
 UNO Unobtanium
-URO UroCoin
 UTC UltraCoin
 UTIL Utility Coin
 VDO VidioCoin
 VIA ViaCoin
-VTC VertCoin
 WC WhiteCoin
 WDC WorldCoin
 XC X11 Coin
@@ -170,7 +159,6 @@ XCR Crypti
 XJO JouleCoin
 XLB LibertyCoin
 XPM PrimeCoin
-XST StealthCoin
 YAC YAcCoin
 ZCC ZCC Coin
 ZED ZedCoins
@@ -278,7 +266,6 @@ XWT World Trade Funds
 XNA DeOxyRibose
 RDN RadonPay
 SKB SkullBuzz
-BSTY GlobalBoost
 FCS CryptoFocus
 GAM Gambit coin
 NXS Nexus
@@ -339,7 +326,6 @@ UNC UnCoin
 SPRTS Sprouts
 ZNY BitZeny
 BTQ BitQuark
-PKB ParkByte
 STR* StarCoin
 SNRG Synergy
 GHOUL Ghoul Coin
@@ -349,7 +335,6 @@ EXP Expanse
 GCR Global Currency Reserve
 CON Paycon
 NEU* NeuCoin
-GRS Groestlcoin 
 CLV CleverCoin
 FCT Factoids
 LYB LyraBar
@@ -360,7 +345,6 @@ CLUB  ClubCoin
 RADS Radium
 EMC Emercoin
 BLITZ BlitzCoin
-EGC EverGreenCoin
 MND MindCoin
 I0C I0coin
 BTA Bata
@@ -383,7 +367,6 @@ DBIC DubaiCoin
 XHI HiCoin
 SPOTS Spots
 KNC* Khancoin
-CAB CabbageUnit
 DIEM CarpeDiemCoin
 RCX RedCrowCoin
 PWR PowerCoin
@@ -422,7 +405,6 @@ APC AlpaCoin
 STEPS Steps
 DBTC DebitCoin
 UNIT Universal Currency
-AEON AeonCoin
 MOIN MoinCoin
 ERC EuropeCoin
 AIB AdvancedInternetBlock
@@ -458,7 +440,6 @@ BELA BelaCoin
 FLX Flash
 BOLI BolivarCoin
 CLUD CludCoin
-DIME DimeCoin
 FLY FlyCoin
 HVCO High Voltage Coin
 GREXIT GrexitCoin
@@ -501,7 +482,6 @@ COX CobraCoin
 BNT Bancor Network Token
 DES Destiny
 PDC Project Decorum
-CMT CometCoin
 CHESS ChessCoin
 SPACE SpaceCoin
 REE ReeCoin
@@ -516,13 +496,11 @@ LIR Let it Ride
 MMNXT MMNXT 
 SCRPT ScryptCoin
 LBC LBRY Credits
-SPX Specie
 SBD Steem Backed Dollars
 CJ CryptoJacks
 PUT PutinCoin
 KRAK Kraken
 DLISK Dlisk
-IBANK iBankCoin
 STRAT Stratis
 VOYA Voyacoin
 ENTER EnterCoin (ENTER)
@@ -547,7 +525,6 @@ HEAT Heat Ledger
 ICN Iconomi
 EXB ExaByte (EXB)
 WINGS Wings DAO
-CDX* Cryptodex
 RBIT ReturnBit
 DCS. deCLOUDs
 KMD Komodo
@@ -562,7 +539,6 @@ TAB MollyCoin
 TRIG Trigger
 BITCNY bitCNY
 BITUSD bitUSD
-ATM* Autumncoin
 STO Save The Ocean
 SNS Sense
 FSN Fusion
@@ -574,7 +550,6 @@ MDC MedicCoin
 FTP FuturePoints
 ZET2 Zeta2Coin
 COV* CovenCoin
-KRB Karbo
 TELL Tellurion
 ENE EneCoin
 TDFB TDFB
@@ -592,7 +567,6 @@ ROOT RootCoin
 1ST FirstBlood
 GPL Gold Pressed Latinum
 DOPE DopeCoin
-B3 B3 Coin
 FX FCoin
 PIO Pioneershares
 GAY GayCoin
@@ -648,7 +622,6 @@ JOBS JobsCoin
 DGORE DogeGoreCoin
 TRA Tetra
 RMS Resumeo Shares
-FJC FujiCoin
 VAPOR Vaporcoin
 SDP SydPakCoin
 RRT Recovery Right Tokens
@@ -664,7 +637,6 @@ ARDR Ardor
 BS BlackShadowCoin
 JIF JiffyCoin
 CRAB CrabCoin
-AIR* Aircoin
 HILL President Clinton
 FOREX ForexCoin
 MONETA Moneta
@@ -696,7 +668,6 @@ SWEET SweetStake
 DKC DarkKnightCoin
 COC Community Coin
 CHOOF ChoofCoin
-ZCL ZClassic
 RYCN RoyalCoin 2.0
 PCS Pabyosi Coin
 NBIT NetBit
@@ -711,7 +682,6 @@ LUCKY LuckyBlocks (LUCKY)
 VSL vSlice
 TPG Troll Payment
 LEO LEOcoin
-MDT Midnight
 CBD CBD Crystals
 PEX PosEx
 INSANE InsaneCoin
@@ -755,7 +725,6 @@ TRICK TrickyCoin
 DCRE DeltaCredits
 FRE FreeCoin
 NPC NPCcoin
-PLNC PLNCoin
 DGMS Digigems
 ICOB Icobid
 ARCO AquariusCoin
@@ -815,7 +784,6 @@ SHIFT Shift
 S8C S88 Coin
 LVG Leverage Coin
 DRA DraculaCoin
-ASAFE2 Allsafe
 LTCR LiteCreed
 QBC Quebecoin
 XPRO ProCoin
@@ -860,7 +828,6 @@ RIDE Ride My Car
 KED Klingon Empire Darsek
 CNO Coino
 WEALTH WealthCoin
-IOP Internet of People
 XSPEC Spectre
 PEPECASH Pepe Cash
 CLICK Clickcoin
@@ -942,7 +909,6 @@ DUCK DuckDuckCoin
 BNX BnrtxCoin
 BSTK BattleStake
 DBIX DubaiCoin
-AMIS AMIS
 XVP VirtacoinPlus
 BOAT Doubloon
 TAJ TajCoin
@@ -972,7 +938,6 @@ GNO Gnosis
 LGD Legends Cryptocurrency
 TAAS Token as a Service
 BUCKS SwagBucks
-XBY XtraBYtes
 GUP Guppy
 MCRN MacronCoin
 LUN Lunyr
@@ -982,7 +947,6 @@ IMS Independent Money System
 CNT Centurion
 LMC LomoCoin
 TKN TokenCard  
-BTCS Bitcoin Scrypt
 PROC ProCurrency
 XGR GoldReserve
 WRC* WarCoin
@@ -1022,7 +986,6 @@ F16 F16Coin
 HAMS HamsterCoin
 QTUM QTUM
 NEF NefariousCoin
-ZEN ZenCash
 BOS BOScoin
 QWARK Qwark
 IOT IOTA
@@ -1048,7 +1011,6 @@ DENT Dent
 BQX Ethos
 STA Starta
 TFL True Flip Lottery
-XTZ Tezos
 MCO Monaco
 NMR Numerai
 ADX AdEx
@@ -1059,7 +1021,6 @@ USDT Tether
 AHT Ahoolee
 ATB ATB coin
 TIX Blocktix
-CHAN ChanCoin
 CMP Compcoin
 RVT Rivetz
 HRB Harbour DAO
@@ -1079,7 +1040,6 @@ FUNC FunCoin
 PQT PAquarium
 WTT Giga Watt
 MTL Metal
-HVN Hive Project
 MYB MyBit
 PPT Populous
 SNC SunContract
@@ -1088,7 +1048,6 @@ COR Corion
 XRL Rialto.AI
 OROC Orocrypt
 OAX OpenANX
-DDF Digital Developers Fund
 GGS Gilgam
 DNA Encrypgen
 FYN FundYourselfNow
@@ -1105,12 +1064,9 @@ SOCC SocialCoin
 MASS Mass.Cloud
 IML IMMLA
 XUC Exchange Union
-STU BitJob
-PLR Pillar
 GUNS GeoFunders
 IFT InvestFeed
 CAT* BitClave
-PRO Propy
 SYC SynchroCoin
 IND Indorse
 TRIBE TribeToken
@@ -1136,7 +1092,6 @@ UET Useless Ethereum Token
 PART Particl
 AGRS Agoras Token
 SAND BeachCoin
-DMT DMarket
 DAS DAS
 ADST Adshares
 CAT BlockCAT
@@ -1186,7 +1141,6 @@ QVT Qvolta
 TIE Ties Network
 AUT Autoria
 CTT CodeTract
-GRWI Growers International
 MTH Monetha
 CCC CCCoin
 UMC Umbrella Coin
@@ -1198,7 +1152,6 @@ BNC Benjacoin
 TOM Tomahawkcoin
 BTM* Bytom
 XAS Asch
-DCN Dentacoin
 DLT Agrello Delta
 MRV Macroverse
 MBRS Embers
@@ -1216,13 +1169,10 @@ WORM HealthyWorm
 FUCK Fuck Token
 VNT Veredictum
 SIFT Smart Investment Fund Token
-IGNIS Ignis
 IWT IwToken
 JDC JustDatingSite
 ITT Intelligent Trading Technologies
-AIX Aigang
 EVX Everex
-ENTRP Entropy Token
 ICOS ICOBox
 PIX Lampix
 MEDI MediBond
@@ -1250,11 +1200,9 @@ WAN Wanchain
 MNT GoldMint
 CFT* Credo
 BLX Blockchain Index
-BKX BANKEX
 BOU Boulle
 OXY Oxycoin
 AMT Acumen
-GIM Gimli
 NYC NewYorkCoin
 LBTC LiteBitcoin
 FRAZ FrazCoin
@@ -1267,15 +1215,11 @@ AVA Avalon
 ACC AdCoin
 Z2 Z2 Coin
 LINX Linx
-BLAS BlakeStar
 GOOD GoodCoin
-SCL Social Nexus
 TRV Travel Coin
 CRTM Cryptum
 EON Exscudo
 PST Primas
-PRIX Privatix
-CTX CarTaxi
 ENJ Enjin Coin
 CNX Cryptonex
 DRC Dropcoin
@@ -1301,7 +1245,6 @@ RCN Ripio
 NRN Doc.ai Neuron
 EVC Eventchain
 LINK ChainLink
-WIZ Crowdwiz
 EDO Eidoo
 ATKN A-Token
 KNC Kyber Network
@@ -1326,8 +1269,6 @@ EZM EZMarket
 ODN Obsidian
 POLL ClearPoll
 MTK Moya Token
-CAS Cashaa
-MAT MiniApps
 GJC Global Jobcoin
 WIC Wi Coin
 WEB Webcoin
@@ -1343,15 +1284,12 @@ ROCK Ice Rock Mining
 ICX ICON Project
 WISH* WishFinance
 FLASH FLASH coin
-GRF* Graft Blockchain
 BTCZ BitcoinZ
 CZC Crazy Coin
 PPP PayPie
 GUESS Peerguess
-CAN CanYaCoin
 ETP Metaverse
 CIX Cryptonetix
-ERT Esports.com
 BAC* LakeBanker
 FLIK FLiK
 TRIP Trippki
@@ -1377,7 +1315,6 @@ NTM NetM
 TZC TrezarCoin
 ENG Enigma
 MCI Musiconomi
-COV Covesting
 WAX Worldwide Asset eXchange
 AIR AirToken
 NTO Fujinto
@@ -1386,14 +1323,10 @@ WILD Wild Crypto
 ELTC2 eLTC
 ILCT ILCoin Token
 POWR Power Ledger
-C20 Crypto20
 GXC* GenXCoin
-ELM Elements
 TER TerraNovaCoin
 XCS CybCSec Coin
 BQ Bitqy
-CAV Caviar
-CLOUT Clout
 PTC* Propthereum
 WABI WaBi
 EVR Everus
@@ -1403,7 +1336,6 @@ RPX Red Pulse
 MDA Moeda
 ZSC Zeusshield
 AURS Aureus
-CAG Change
 PKT Playkey
 INXT Internxt
 ATS Authorship
@@ -1411,11 +1343,8 @@ RGC RG Coin
 EBET EthBet
 R Revain
 MOD Modum
-CPAY CryptoPay
 BON* Bonpay
-APPC AppCoins
 WHL WhaleCoin
-UP UpToken
 ETG Ethereum Gold
 WOMEN WomenCoin
 MAY Theresa May Coin
@@ -1423,26 +1352,21 @@ RNDR Render Token
 EDDIE Eddie coin
 SCT* Soma
 KCS Kucoin
-GAT GATCOIN
 BLUE Ethereum Blue
 FLLW Follow Coin
 WYR Wyrify
 VZT Vezt
 INDI IndiCoin
-BAR TBIS token
 ECASH Ethereum Cash
 DRGN Dragonchain
 ODMC ODMCoin
 CABS* CyberTrust
-BRAT Brat
 DTR Dynamic Trading Rights
 TKR CryptoInsight
-KEY SelfKey
 ELITE EthereumLite
 XIOS Xios
 DOVU DOVU
 ETN Electroneum
-REA Realisto
 AVE Avesta
 XNN Xenon
 LOAN* Lendoit
@@ -1450,16 +1374,12 @@ ZAB ZABERcoin
 MDL Modulum
 BT1 Bitfinex Bitcoin Future
 BT2 Bitcoin SegWit2X
-SHP Sharpe Capital
 JCR Jincor
 XSB Extreme Sportsbook
 KEK KekCoin
-AID AidCoin
 BHC* BlackholeCoin
 ALTCOM AltCommunity Coin
-OST Simple Token
 DATA Streamr DATAcoin
-UGC ugChain
 DTC Datacoin
 PLAY HEROcoin
 CLD Cloud
@@ -1467,7 +1387,6 @@ OTN Open Trading Network
 POS PoSToken
 NEOG NEO Gold
 EXN ExchangeN
-INS INS Ecosystem
 TRCT Tracto
 UKG UnikoinGold
 BTCRED Bitcoin Red
@@ -1477,29 +1396,21 @@ AXT AIX
 RDN* Raiden Network
 NEU Neumark
 RUPX Rupaya
-XIN* Infinity Economics
 DUTCH Dutch Coin
 HNC* Huncoin
 HST Decision Token
 BCPT BlockMason Credit Protocol
 BDL Bitdeal
-CMS COMSA
 XBL Billionaire Token
 ZEPH Project Zephyr
-GES Galaxy eSolutions
 NULS Nuls
 LCASH LitecoinCash
 CFD Confido
-SPHTX SophiaTX
-SRN SirinLabs
 DBET Decent.bet
 NEWB Newbium
-LIFE LIFE
-RMC Russian Mining Coin
 CREDO Credo
 MSR Masari
 ESC* Ethersportcoin
-EVN Envion
 BNK Bankera
 ELLA Ellaism
 ROCK* RocketCoin 
@@ -1508,12 +1419,10 @@ SKR Sakuracoin
 GRID Grid+
 XPTX PlatinumBAR
 GVT Genesis Vision
-ETK Energi Token
 ASTRO Astronaut
 GMT Mercury Protocol
 EPY* Emphy
 SOAR Soarcoin
-EXY Experty
 HOLD Interstellar Holdings
 MNX MinexCoin
 CRDS Credits
@@ -1529,9 +1438,7 @@ QASH Quoine Liquid
 KNC** KingN Coin
 TRIA Triaconta
 PBL Publica
-STEX STEX
 UFR Upfiring
-LOCI LociCoin
 LAB Labrys
 FLIXX Flixxo
 FRD Farad
@@ -1539,24 +1446,18 @@ PFR PayFair
 ECA Electra
 LDM Ludum token
 LTG LiteCoin Gold
-BCD Bitcoin Diamond
-STP StashPay
 SPANK SpankChain
 WISH MyWish
 AERM Aerium
 PLX PlexCoin
 NIO Autonio
 ETHB EtherBTC
-CDX Commodity Ad Network
-FOOD FoodCoin
 UQC Uquid Coin
 LEND EthLend
-SETH Sether
 TIO* Tio Tour Guides
 XSH SHIELD
 BCD* BitCAD
 BCO* BridgeCoin
-BDG BitDegree
 ONG onG.social
 PRL Oyster Pearl
 BTCM BTCMoon
@@ -1571,19 +1472,15 @@ RHOC RChain
 ARC*  Arcade City
 XUN UltraNote
 RFL RAFL
-COFI CoinFi
 GRX Gold Reward Token
-NTK Neurotoken
 ERO Eroscoin
 CMT* CyberMiles
 RLX Relex
 MAN People
 ACT* Achain
 NRO Neuro
-X8X X8Currency
 COAL BitCoal
 DAXX DaxxCoin
-FNT FinTab
 XMRG Monero Gold
 BTCE EthereumBitcoin
 FYP FlypMe
@@ -1592,12 +1489,10 @@ EGAS ETHGAS
 DPP Digital Assets Power Play
 TGT TargetCoin
 BMT BMChain
-MTRC ModulTrade
 BTCL BTC Lite
 PCN PeepCoin
 RBTC Bitcoin Revolution
 CRED Verify
-SBTC Super Bitcoin
 KLK Kalkulus
 AC3 AC3
 GTO GIFTO
@@ -1606,137 +1501,238 @@ CHIPS* CHIPS
 HKN Hacken
 B2B B2B
 LOC* LockChain
-MNT* Media Network Coin
 ITNS IntenseCoin
 SMT* SmartMesh
 GER GermanCoin
 LTCU LiteCoin Ultra
 EMGO MobileGo
 BTCA Bitair
-HQX HOQU
 ETF EthereumFog
 BCX* BitcoinX
 LUX** Luxmi Coin
 STAK Straks
 BCOIN BannerCoin
 BNTY Bounty0x
-BRD Bread token
-HAT Hawala.Today
-ELF aelf
 DBC DeepBrain Chain
-ZEN* Zen Protocol
 POP PopularCoin
 BAS BitAsean
 UTT United Traders Token
 HBC HomeBlockCoin
 AMM MicroMoney
 DAV DavorCoin
-GET Guaranteed Entrance Token
 ERC20 Index ERC20
 ITC IoT Chain
-HTML HTML Coin
 PHO Photon
-XTRA ExtraCredit
-NTWK Network Token
 SMART* SmartBillions
 GNX Genaro Network
 NAS Nebulas
 EREAL eREAL
 CPN CompuCoin
-QLC QLINK
 BTSE BitSerial
 OMGC OmiseGO Classic
 Q2C QubitCoin
 SPF SportyFi
-TDS TokenDesk
 FLS Fuloos Coin
 GUN GunCoin
 DFS DFSCoin
+GRS Groestlcoin 
+HQX HOQU
 CL CoinLancer
+BRD Bread token
+RMC Russian Mining Coin
+AEON AeonCoin
 AUA ArubaCoin
+ELF aelf
 TSL Energo
 IRL IrishCoin
-PMA PumaPay
+APPC AppCoins
+XBY XtraBYtes
 TROLL Trollcoin
 SGR Sugar Exchange
+EVN Envion
+NTK Neurotoken
 JET Jetcoin
 MDS MediShares
 LCP Litecoin Plus
 GTC Game
 IETH iEthereum
+NTWK Network Token
 GCC* TheGCCcoin
 SDRN Sanderon
-KBR Kubera Coin
-HPB High Performance Blockchain
+HAT Hawala.Today
+INS INS Ecosystem
 MONK Monkey Project
 JINN Jinn
 SET Setcoin
 BRC BrightCoin
-HIVE Hive
-GX GameX
+HTML HTML Coin
+LIFE LIFE
+CRC* CraftCoin
 ETL EtherLite
-TEL Telcoin
 BRC* BinaryCoin
+CDX Commodity Ad Network
+CDX* Cryptodex
 ZAP Zap
 AIDOC AI Doctor
+ZEN* Zen Protocol
+TDS TokenDesk
 ECC ECC
+XRP Ripple
+SYS SysCoin
+HIVE Hive
+XTRA ExtraCredit
 LCT LendConnect
-INT Internet Node Token
+MNT* Media Network Coin
 STN Steneum Coin
+INT Internet Node Token
+B3 B3 Coin
+CHAN ChanCoin
+KBR Kubera Coin
 PCOIN Pioneer Coin
 BLN Bolenum
-CYDER Cyder Coin
+STU BitJob
+SETH Sether
+BLAS BlakeStar
+DIME DimeCoin
+GLD GoldCoin
+BRAT Brat
+CAG Change
+XTZ Tezos
 EKO EchoLink
-UBTC UnitedBitcoin
-BTO Bottos
+ATM* Autumncoin
 ARCT ArbitrageCT
-IMV ImmVRse
+TEL Telcoin
 AURA Aurora
-IDH IndaHash
 CBT CommerceBlock Token
 XBP Black Pearl Coin
 EXRN EXRNchain
-AGI SingularityNET
+IMV ImmVRse
 BFT BF Token (BFT)
+DGB DigiByte
 LGO Legolas Exchange
+AGI SingularityNET
+ZEN ZenCash
 SGL Sigil
+GRF* Graft Blockchain
 DTA Data
-CV CarVertical
+KRB Karbo
 MCU MediChain
 OCN Odyssey
 THETA Theta
-MDT* Measurable Data Token 
-PRPS Purpose
-DUBI Decentralized Universal Basic Income
-BPT Blockport
+CV CarVertical
+EXY Experty
 IOST IOS token
 TCT TokenClub 
+BPT Blockport
 TRAC OriginTrail
 MOT Olympus Labs
-ZIL Zilliqa
 HORSE Ethorse 
 QUN QunQun
 ACC* Accelerator Network
-SWFTC SwftCoin
-SENT Sentinel
+MDT Midnight
+MDT* Measurable Data Token 
+BTO Bottos
+MTRC ModulTrade
 IPL InsurePal
+SENT Sentinel
+SWFTC SwftCoin
+AIX Aigang
 SHA Shacoin
+UGC ugChain
 PYLNT Pylon Network
-EVE Devery
-YEE Yee
+GES Galaxy eSolutions
 GTC* Global Tour Coin
+YEE Yee
+ZIL Zilliqa
+FNT FinTab
+SHP Sharpe Capital
+ZCL ZClassic
+GX GameX
+PKB ParkByte
+QLC QLINK
+SRN SirinLabs
+BCD Bitcoin Diamond
+ASAFE2 Allsafe
+SBTC Super Bitcoin
+UBTC UnitedBitcoin
 BTW BitcoinWhite
-AXP aXpire
-FOTA Fortuna
+AIR* Aircoin
+PRIX Privatix
+PRO Propy
+BTCS Bitcoin Scrypt
+CMS COMSA
+CPAY CryptoPay
+CMT CometCoin
+BSTY GlobalBoost
+FJC FujiCoin
 CPC* CPChain
-PXS Pundi X
+WIZ Crowdwiz
+CAV Caviar
+GIM Gimli
 REF RefToken
 SXDT SPECTRE Dividend Token
+VTC VertCoin
 SXUT SPECTRE Utility Token
 FAIR* FairGame
 VAL Valorbit
 MAN* Matrix AI Network
 BCDN BlockCDN 
+IBANK iBankCoin
+CAB CabbageUnit
+PLNC PLNCoin
+BAR TBIS token
+COFI CoinFi
+PRPS Purpose
+KEY SelfKey
+LOCI LociCoin
+GAT GATCOIN
+PXS Pundi X
+STP StashPay
+UP UpToken
+CAN CanYaCoin
+DUBI Decentralized Universal Basic Income
+HVN Hive Project
+CAS Cashaa
+ETC Ethereum Classic
+PLR Pillar
+CLOAK CloakCoin
+IOP Internet of People
+ETK Energi Token
+XST StealthCoin
+ENTRP Entropy Token
+BDG BitDegree
+SPHTX SophiaTX
+BKX BANKEX
+COV Covesting
+EVE Devery
+AXP aXpire
+X8X X8Currency
+DMT DMarket
+EGC EverGreenCoin
+C20 Crypto20
+FOTA Fortuna
+CTX CarTaxi
+GET Guaranteed Entrance Token
+AID AidCoin
+DCN Dentacoin
+FOOD FoodCoin
+MAT MiniApps
+DDF Digital Developers Fund
+DEM eMark
+GRWI Growers International
+ELM Elements
+IDH IndaHash
+OST Simple Token
+CLOUT Clout
+ERT Esports.com
+BTCD BitcoinDark
+URO UroCoin
+HPB High Performance Blockchain
+XIN* Infinity Economics
+IGNIS Ignis
+CYDER Cyder Coin
+AMIS AMIS
+REA Realisto
 SAF Safinus
 GFT Giftcoin
 DNN DNN Token
@@ -1759,7 +1755,6 @@ VEE BLOCKv
 ELTCOIN ELTCOIN
 PURE Pure
 GRLC Garlicoin
-WT WeToken
 UTK Utrust
 NGC NagaCoin
 XRB Nano
@@ -1804,7 +1799,7 @@ CPY COPYTRACK
 SCR Scorum
 BM* Bitcomo
 WBTC WorldBTC
-SPICE SPiCE Venture Capital 
+eFIC FIC Network
 REPUX Repux
 DOC* Doc Coin
 VRC VeriCoin
@@ -1826,7 +1821,6 @@ BTB BitBar
 BTE ByteCoin
 CIN CinderCoin
 CXC CheckCoin
-CSC CasinoCoin
 DRKC DarkCash
 DSB DarkShibe
 DVC DevCoin
@@ -1938,7 +1932,6 @@ FRWC Frankywillcoin
 LCK Luckbox
 MRT MinersReward
 IOU IOU1
-eFIC FIC Network
 EQUI EQUI Token
 EBC EBCoin
 TKY THEKEY Token
@@ -2107,7 +2100,6 @@ INK Ink
 WELL Well
 NEC* Ethfinex Nectar Token
 WPR WePower
-DRG Dragon Coin
 XCD Capdax
 DTC** DivotyCoin
 DRPU DRP Utility
@@ -2150,7 +2142,6 @@ TRF Travelflex
 KB3 B3Coin
 LCC LitecoinCash
 NYX NYXCOIN
-REBL Rebellious
 MWAT RED MegaWatt
 ZYD ZayedCoin
 DASH DigitalCash
@@ -2159,7 +2150,6 @@ EBTC eBitcoin
 FLIP BitFlip
 NLG Gulden
 UTN Universa
-VANY Vanywhere
 SGN Signals Network
 NBX Noxbox
 ILT iOlite
@@ -2167,7 +2157,6 @@ LYK Loyakk Vega
 IQB Intelligence Quotient Benefit
 BANCA BANCA
 ENK Enkidu
-ALX ALAX
 SHPING Shping Coin
 EARTH Earth Token
 SMT** Social Media Market
@@ -2196,7 +2185,6 @@ CRC** CryCash
 NBR Niobio Cash
 HLP Purpose Coin
 Q1S Quantum1Net
-FDX fidentiaX
 EQL EQUAL
 VULC Vulcano
 MAG Magnet
@@ -2214,14 +2202,9 @@ DTH Dether
 SOC All Sports Coin
 TDX Tidex Token
 BTC Bitcoin
-BITCAR BitCar
 CLN Colu Local Network
-JOY JoyToken
 MLT MultiGames
 VST Vestarin
-LYM Lympo
-NPX Napoleon X
-LNC BlockLancer
 BERRY Rentberry
 REN Republic Token
 HBZ Helbiz
@@ -2235,3 +2218,30 @@ MFG SyncFab
 GAI GraphGrail AI
 DNO Denaro
 ABT* ArcBlock
+BITCAR BitCar
+CSC CasinoCoin
+WT WeToken
+SPX Specie
+BEET BeetleCoin
+BASHC BashCoin
+DIGIF DigiFel
+NIHL Nihilo Coin
+DGM DigiMoney
+CBS Cerberus
+PMA PumaPay
+MNTS Mint
+SCL Sociall
+REBL Rebellious
+VANY Vanywhere
+SVD Savedroid
+redBUX redBUX
+DRG Dragon Coin
+JOY JoyToken
+SPICE SPiCE Venture Capital 
+FDX fidentiaX
+ALX ALAX
+STEX STEX
+PROOF PROVER
+LYM Lympo
+NPX Napoleon X
+LNC BlockLancer

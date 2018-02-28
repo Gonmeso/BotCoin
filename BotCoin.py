@@ -9,6 +9,7 @@ import requests
 import json
 import os
 import Common as cmn
+import time
 
 # Pruebas sobre las opciones que nos permite el bot
 initialResponse = requests.get(cmn.url + 'getme')
@@ -50,7 +51,7 @@ def getLastUpdate(offset = None):
     
     if  update['result']:
         
-        lastUpdate = update['result'][0]['update_id']
+        lastUpdate = update['result']
     else:
         lastUpdate = False
         return lastUpdate 
@@ -78,7 +79,7 @@ def getUpdateNumber():
     
     if os.path.exists(cmn.filePath + 'updateNumber.txt') == False:
         
-        updateFile = open('C:/Py_projects/files/updateNumber.txt', 'w')
+        updateFile = open(cmn.filePath + 'updateNumber.txt', 'w')
         updateFile.write('0')
         updateNumber = 0
         updateFile.close()
@@ -155,6 +156,50 @@ def handleUpdate(update):
             
             prices = getLastCryptoPrice(text)
             sendMsg(prices, chat)
-    return
+            
+        elif text == 'ChapaGarito':
+            cmn.keepExecution = False 
+            
+        
+    return cmn.keepExecution
         
     
+
+def main():
+    
+    offset = getUpdateNumber()
+    updates = getLastUpdate(offset = offset)
+    
+    while cmn.keepExecution:
+        
+        offset = getUpdateNumber()
+        updates = getLastUpdate(offset = offset)
+        
+        if updates and len(updates) > 0:
+            
+            lastUpdate = len(updates) - 1
+            lastUnattended = updates[lastUpdate]['update_id']
+            
+            for update in updates:
+                
+                cmn.keepExecution = handleUpdate(update['message'])
+                print('INFO: Update {} handled successfully'.format(update['update_id']))
+                
+                if not cmn.keepExecution:
+                    print('WARN: the bot has been stopped')
+                    break
+                
+            setUpdateNumber(int(lastUnattended) + 1 )
+            
+        else:
+            print('No updates')
+        
+        time.sleep(5)
+        
+
+if __name__ == "__main__":
+    
+    main()
+
+            
+        
