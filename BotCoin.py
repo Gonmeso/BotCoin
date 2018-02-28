@@ -10,6 +10,7 @@ import json
 import os
 import Common as cmn
 import time
+import datetime
 
 # Pruebas sobre las opciones que nos permite el bot
 initialResponse = requests.get(cmn.url + 'getme')
@@ -173,7 +174,7 @@ def main():
     updates = getLastUpdate(offset = offset)
     
     while cmn.keepExecution:
-        
+        start_time = time.time()
         offset = getUpdateNumber()
         updates = getLastUpdate(offset = offset)
         
@@ -189,6 +190,7 @@ def main():
                 
                 if not cmn.keepExecution:
                     print('WARN: the bot has been stopped')
+                    setUpdateNumber(int(lastUnattended) + 1)
                     return
                 
             setUpdateNumber(int(lastUnattended) + 1 )
@@ -196,6 +198,7 @@ def main():
         else:
             print('No updates')
         
+        print("--- %s seconds ---" % (time.time() - start_time))
         time.sleep(5)
         
 
